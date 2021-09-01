@@ -220,7 +220,7 @@ body {
 }
 
 .bl-bg {
-  background-color: #f7f8f9;
+  background-color: #ececec;
 }
 
 .pupimg {
@@ -228,6 +228,14 @@ body {
   height: 100px;
   object-fit: cover;
   flex: none;
+}
+
+.object-cover{
+  object-fit: cover;
+}
+
+.imgheight{
+  height: 150px;
 }
 
 footer {
