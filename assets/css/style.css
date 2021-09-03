@@ -220,7 +220,11 @@ body {
 }
 
 .bl-bg {
-  background-color: #ececec;
+  background-color: #fff;
+}
+
+.bg-f5{
+  background-color: #f5f5f5;
 }
 
 .pupimg {
