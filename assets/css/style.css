@@ -47,7 +47,16 @@ body {
   margin-right: 0.5rem;
 }
 
-.imgs-header a::after {
+.img-slider-item {
+  object-fit: cover;
+  height: 430px;
+  width: 100%;
+}
+.slider-item{
+  height: 430px;
+
+}
+.imgs-slider a::after {
   top: 15%;
   background: linear-gradient(
     to bottom,
@@ -61,10 +70,6 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-}
-
-.h-430 {
-  height: 430px;
 }
 
 .videos {
