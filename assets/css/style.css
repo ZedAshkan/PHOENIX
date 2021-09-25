@@ -90,7 +90,7 @@ body {
   .videosgrid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 20px;
+    grid-gap: 10px;
   }
   
   .videositem:first-child {
@@ -130,7 +130,7 @@ body {
   border-radius: 50%;
   border: 4px double transparent;
   background-repeat: no-repeat;
-  z-index: 1;
+  z-index: +1;
 }
 
 .lk__thumb a::after {
@@ -209,7 +209,7 @@ body {
   border-radius: 50%;
   border: 4px double transparent;
   background-repeat: no-repeat;
-  z-index: 1;
+  z-index: 0;
 }
 
 .videosimgbig a::after {
