@@ -1,3 +1,3 @@
 # glass
 
-glass themplate whit bootsrtap
+glass themplate with bootsrtap
